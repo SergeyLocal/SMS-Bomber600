@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> 🆂🅼🆂-🅱🅾🅼🅱🅴🆁-300 🅵🆁🅴🅴 </h1>
+<h1 align="center"> 🆂🅼🆂-🅱🅾🅼🅱🅴🆁-600 🅵🆁🅴🅴 </h1>
 <h1 align="center">Бета тестирование</h1>
 
 ## Что нового в обновлении ?
@@ -57,8 +57,8 @@
 4. Пропишите - apt upgrade
 
 
-Группа в ВК - [Подписаться](https://vk.com/python.hacker)
-Чат в ВК - [Написать](https://vk.me/join/AJQ1dyAD2RfiLmpN0GyH3KmJ)
+
+
 
 
 
